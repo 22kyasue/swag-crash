@@ -1,0 +1,6 @@
+userids = {
+    [] = true, -- random kids
+    
+    }
+    return userids
+

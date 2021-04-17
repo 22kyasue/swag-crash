@@ -1,0 +1,5 @@
+userids = {
+    [661608769] = true, -- kristina#1111
+    
+    }
+    return userids

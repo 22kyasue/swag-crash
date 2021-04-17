@@ -1,0 +1,3203 @@
+return (function(l, ...)
+    local F = "This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu"
+    local p = l["BS7ZYD"]
+    local x = l["MZUGhMP"]
+    local D = l[(688561554)]
+    local M =
+        l[
+        (723732766 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!"))
+    ]
+    local Y = l[(#{} + 613736664)]
+    local a = l[(444105335)]
+    local O = l[(554949777)]
+    local P = l[(447789193)]
+    local t = l["tLOCLz"]
+    local k =
+        l[
+        (683465195 -
+            #("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))
+    ]
+    local r = l[(193593747)]
+    local v = l[(180749218)]
+    local b = l["AXUJG48aC"]
+    local y = l[(413291554)]
+    local g = l[(#{91, 7, (function(...)
+                return 719
+            end)()} + 881756390)]
+    local o =
+        l[
+        (112425322 -
+            #("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))
+    ]
+    local U = l.FV0XMlD17e
+    local V = l[(202283940)]
+    local s = l["t2vDAJj"]
+    local N = l[(96932726)]
+    local c = l.XVbG0Qgm3
+    local B = l[(328716740)]
+    local j = l[(#{413, 31, 812, 264, (function(...)
+                return 361, 779, 555, 277
+            end)()} + 487562754)]
+    local J = l.x3aUjyP6x
+    local i = l[(826123361)]
+    local R =
+        l[
+        (571401187 -
+            #("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot"))
+    ]
+    local X = l[(235387879)]
+    local I = l[(519413482)]
+    local W = ((getfenv) or (function(...)
+            return (_ENV)
+        end))
+    local n, f, e = ({}), (""), (W(o))
+    local d = ((e["\98\105" .. l.JYfWtVC .. "\51" .. l[J]]) or (e["" .. l[t] .. l["o67A3"] .. l["JYfWtVC"]]) or ({}))
+    local n = (((d) and (d["" .. l[t] .. "\120" .. l[V] .. "\114"])) or (function(l, n)
+            local e, o = o, r
+            while ((l > r) and (n > r)) do
+                local d, i = l % a, n % a
+                if d ~= i then
+                    o = o + e
+                end
+                l, n, e = (l - d) / a, (n - i) / a, e * a
+            end
+            if l < n then
+                l = n
+            end
+            while l > r do
+                local n = l % a
+                if n > r then
+                    o = o + e
+                end
+                l, e = (l - n) / a, e * a
+            end
+            return (o)
+        end))
+    local h = (a ^ y)
+    local m = (h - o)
+    local E, C, w
+    local z = (f["" .. l[x] .. l[b] .. "\97" .. l[s]])
+    local u = (f["\98" .. l[D] .. l["JYfWtVC"] .. "\101"])
+    local h = (f["" .. l.bNEtJ63m .. l[p] .. l[t]])
+    local f = (f["" .. l.O81olx .. "\115" .. l[p] .. l[t]])
+    local f =
+        ((e["" .. l[p] .. "\110\112\97" .. l[x] .. l["OoRL83RER"]]) or
+        (e["\116\97" .. l[t] .. l["I4fWpdhUP"] .. "\101"]["\117\110" .. l.ogH6oFzsyD .. l[c] .. l[x] .. l["OoRL83RER"]]))
+    local A = (e["\109\97\116" .. l[b]]["\102" .. l["I4fWpdhUP"] .. "\111\111\114"])
+    local D = (e["\116" .. l[D] .. "\112" .. l[i]])
+    local D = (e["" .. l[s] .. "\97" .. l[v] .. l.bNEtJ63m .. l[i] .. l["JYfWtVC"]])
+    local v =
+        (e[
+        "" ..
+            l.bNEtJ63m ..
+                l[i] ..
+                    "\116\109" .. l[i] .. l["JYfWtVC"] .. l[c] .. l.JYfWtVC .. "\97" .. l[t] .. l["I4fWpdhUP"] .. "\101"
+    ])
+    local P =
+        ((e["" .. l[P] .. l[c] .. "\116\104"]["\108" .. l[g] .. l[i] .. "\120" .. l["ogH6oFzsyD"]]) or
+        (function(e, l, ...)
+            return ((e * a) ^ l)
+        end))
+    local L = (e["\112" .. l[c] .. "\105\114\115"])
+    local p = (e["\116\111\110" .. l[p] .. "\109\98" .. l[i] .. "\114"])
+    local D = (e["\115\101" .. l["I4fWpdhUP"] .. "\101" .. l[x] .. "\116"])
+    w = (d["" .. l[t] .. l[c] .. l[B] .. l[g]]) or (function(l, e, ...)
+            return (((l + e) - n(l, e)) / a)
+        end)
+    C = ((d["" .. l[s] .. "\115\104\105" .. l[Y] .. "\116"]) or (function(e, l, ...)
+            if (l < r) then
+                return (E(e, -(l)))
+            end
+            return (A(e % a ^ y / a ^ l))
+        end))
+    local Y = (d["\98\111" .. l[s]]) or (function(l, e, ...)
+            return (m - w(m - l, m - e))
+        end)
+    E = ((d["" .. l["I4fWpdhUP"] .. l.bNEtJ63m .. l[b] .. l["o67A3"] .. "\102" .. l.JYfWtVC]) or (function(e, l, ...)
+            if (l < r) then
+                return (C(e, -(l)))
+            end
+            return ((e * a ^ l) % a ^ y)
+        end))
+    local a = (d["" .. l[t] .. "\110\111" .. l["JYfWtVC"]]) or (function(l, ...)
+            return (m - l)
+        end)
+    if ((not (e["\98" .. l["o67A3"] .. l.JYfWtVC .. "\51\50"])) and (not (e["\98" .. l["o67A3"] .. "\116"]))) then
+        d["\108\115" .. l[b] .. "\105\102\116"] = E
+        d["\98\120\111" .. l[s]] = n
+        d["" .. l[t] .. "\111\114"] = Y
+        d["\114" .. l["bNEtJ63m"] .. "\104\105\102\116"] = C
+        d["\98" .. l[c] .. "\110" .. l[g]] = w
+        d["" .. l[t] .. "\110\111" .. l.JYfWtVC] = a
+    end
+    local x =
+        (e["" .. l.JYfWtVC .. l[c] .. "\98" .. l.I4fWpdhUP .. l[i]]["" .. l[x] .. "\111\110\99" .. l[c] .. "\116"])
+    local a =
+        (e["" .. l.JYfWtVC .. l[c] .. l[t] .. l["I4fWpdhUP"] .. l[i]][
+        "\114" .. l[i] .. "\109" .. l[V] .. l["CPVkQwOLPu"] .. l[i]
+    ])
+    local C = ((e["\116\97\98\108\101"]["\99" .. l[s] .. l[i] .. l[c] .. l["JYfWtVC"] .. "\101"]) or (function(l, ...)
+            return ({f({}, r, l)})
+        end))
+    local a =
+        (e["\116\97\98" .. l["I4fWpdhUP"] .. l[i]]["" .. l["o67A3"] .. l[B] .. l["bNEtJ63m"] .. l[i] .. l[s] .. "\116"])
+    e["" .. l[t] .. "\105" .. l["JYfWtVC"] .. "\51" .. l[J]] = d
+    local e = (M)
+    local a = (#F + R)
+    local t, m = ({}), ({})
+    for l = r, a - o do
+        local e = z(l)
+        t[l] = e
+        m[l] = e
+        m[e] = l
+    end
+    local x, d =
+        (function(n)
+            local i, d, l = u(n, o, X)
+            if ((i + d + l) ~= U) then
+                e = e + j
+                a = a + N
+            end
+            n = h(n, k)
+            local e, d, i = (""), (""), ({})
+            local l = o
+            local function c()
+                local e = p(h(n, l, l), I)
+                l = l + o
+                local n = p(h(n, l, l + e - o), I)
+                l = l + e
+                return (n)
+            end
+            e = m[c()]
+            i[o] = e
+            while (l < #n) do
+                local l = c()
+                if t[l] then
+                    d = t[l]
+                else
+                    d = e .. h(e, o, o)
+                end
+                t[a] = e .. h(d, o, o)
+                i[#i + o], e, a = d, d, a + o
+            end
+            return (x(i))
+        end)(
+            "PSU|22G21h18181010121227827C27C14142781121S21T27d101121E21E1127d1121y21y27Q27c111T1s27L27927B27C13132781p25925W22521j26523822r27321I1D27g1023B1m181T2311p27l26O25r21f1c27H27j27l1121F21E27m27v111X1w27l1I1y21C2912781i22l2261127A27h21N21M27L23O24J213101B1B27D171727h1U1v29a101X1721228x29429x131t1U1028427H27Y2802A927C161627819102AI102242151n1P1E1n1V1o1723F1c1527822b2131r1V22M21328H2782231y1A1822Q2b51022621B1C182301o1H27822Q1R191h1I101q171921z223122B921X2782132aW278234121R171Q23e1E28v27k27R29v27L29427v2A81324k23w214101A1a27D27f29u29W27D1x21H1K27C27A29C22512112921927729G2a82A6102762782a52a71d1d29b29810152Ax1029C29e2CR27M21V21U28X2AB27L2762D32782D72802dP27I2cC27W2ce27R1o28p27r2DU27d2122A12AJ142DG1021V21i29T1n1B1d1Q21621O1Q1R1A23h2e827821C22721R2212aj27821Y21g1j2Bg1i1o1T1p22q132Cp1021Z1y1H21321i1N141v1A1623G2ev27D192bC22C21d1T1C23h2f1102fU2fW21K219132BT22T21021927822C21H1A122bt21Z224131119121N22A22C1S191f22622d2aF1k1D2242282GP141i1M21X21U1721x2281h1l2fW1B1q22I2c02C21022d1h2191422n21n2fZ22r1c1t1T1Q27x171B2302fz22A21P1d1E131N21R21E1s22O1a2851022121m21E220112772eh1H1j1i1r112BT2261f2AG102361N1M161o2Bh2IF27821u1z12181r1H2J222Q1e29T2EH2181T1N1Y2i522o2FZ22821o1D1o1s1N21H2jF172cA1021y21B171A1y21B2il1721j2171115182312hf2341H2J3112C92J922e21r1Q1Q1B1e192351k192fc2gA2fV1C21i21j27Q2iL23B2fQ1022H1P2212IP27822R1h2FK1L1h2301528U2g02121j1f1t132iI2El2EN2C429Q102281y1t181L2it1022B2kG2152i82782321b1i23i2Bc22B21m1J1v2302JQ2782FF1h21C1X1M1g161b1a151F2Bs23E2EF278225218181721p21C2l529O2152jF2L21022E21l131P2iW2fP27l21022S2kZ28021S22h23X23S26X23c27g1W162522Hf2F32F52bH2bC22V162Bg2301827v2112182Iy2ln21r1S1q2hq16111a22S2cB28x2e527c2cG27C1g1g2oF2dY122oJ27C21D1o215101u1u27f2972991i2bq27m2Os2CH29Y2952d3112oh2A32P42HQ2cV1l2p41s1s1121R21R2P1112MJ2CY122dd101r1r2782CV1h1527f29P29c220171Y1Y27H21I21E1529S27823o2451k152kg27H112Ox2Pr21H2PT2pV2m122l2Py2Af2q22Q42q6102q82QA2qc2911m1m2qG2Qi142PW2QL171L1L2qO2Q52J929l1y152Pp27d2Qu2oo2HJ1J1j1k1k23O2422QX1E2JR27a2pD2dh2991Z1z2Pr1w2CH1F1F2CV2cx2781H2Bp22L2d11c2lB112ks2812Q729m1021o21o27D2Q02Cs29x2Om2rh2Ck2Cm2SG2782Rj2112112Sk2dx2P22ch2sT29721d2iF2IG2P72D32kG2D0122dP29c2gh2t922l223141X1x29b22L2222pU28i2SA21I2K32Dl23o24Q21A2SF2SH29121b21b2SV27v2oM2pp2t02t22rW291112t62S6121w2952dM22L2TB28i29c2tE2UB2ti2tk2e121I2TO2dk2q72TS2tu2qD21L21L2TZ2rW2ch1O1O2sO1021Q21q27827F2Sq2OZ29W2d7112e72oc29W2AD24K24h2ax2202202qd21s21S2Sk2Tc29e1P2E8111U1T2PM2i91X22t21Y27a121v1V2ta1321021027h2RH2P42841h21121G2dj152d32Pn22K22k2sk2Up1024K24x2r52292292sr1K2222222rs2aJ2Ak2Om2dF2u3192X02p32D31n1n162h82822qd2im2o72pg2pi1h1g2vd102qQ2VG2AX22I2HD102qw22b22B2vo2UG29D112vr29u2vv2qq2W52W72w91J2Wb2Lh2wE2WG2wi2d92WK2XV2782OO2Oq2DK29s2oV102ru2qG2s22cI2t72Rz2Q221j2sc2sx27C2cO2OM2RO2yG102rh2Rj27X27z27L2Qn27C2qq2ai2ak21V217192Rh2gL2l522z2KX28r21i2j827822j1F21H2h11n21B22c122Lm2MC2K12K3181M2eL22v2K72K92Il23e2Bc2bE2BG2N82802s42ob27d29C227102z72932UC27c2yK2E12P02SW2T42U021H2pb2WI2gI2xG27r2PK2ok2PN2yr2P2142tL2dK2Wp1g2ML1f2Ok2S829U1Q2DL2pR171z2dk2WH2d31x211311F2Qr2rm2cn2FD27a2Oh2aa2Z527D2z72782hq2aH2Ko2fE2fg2fI2FK2FM162bi2Bk1022U1F1r2X91F152B91f112S4161N1r1T23f2Zm1021W2MF17161T1M23416311a102zo2zq310121b23h2Df142PB27821l2BC28K28M2Fy2Ak22f21K2F91O2Lh1231282O12212131T2r31F1d31282LY102M02m231222jt312E2Un2Fk1J1N23f313P2131Q1Y21j1d1p1G2302bC2202HJ15231312R31332ZR2ZT2O12282O32O51t2O722V2N122821D31462HB23h2MP2eH21b312H1821b1X312l312n312P2n121v152F42nv31082bf2bH31042KA23E2ZV2IZ2191b1T21o2Rv13312m1723E2Hf21u21a132bg22q315P31231h2ZY2k431011b22V2O12j02j22j42j6312R22121a1927X1N112312NS2nu2Nr28i22b21n171v23d2ma2js2Ju2JW2Jy2Im31692k52fz2zc2ZE1j2zG3147314f27822021p1O1c312j161d21I21P2pO21031501623h312R312t284315s1M21e22f310E310M2DI2E12VC2cd2CT27C29L29N22e22E27D2wN2vt29W310q2rx27C2kG2U11r2u33112310R2YJ2jE2Gl1n2qG1M2W12tI2Te318E21I21H2t828I294132w12Qw31942W12uz319827a284319b2bX1a319E2s81121n21n2P12WD2wf2Rz2d32YK2sW2u32x82qG310u27V2w5318Z2tO2ad310r31972X62vb1O310r319d31A42Yx31A42df310R2rO112DR2962DI310d2oZ1U2p42u52p42r42Pa2P42z3310x27W310z2812PN2192g931132Tl2OH31171531Ay27829p216216311d311K2RW31142dk2Kg2wD21c2EF1D2dK2RL2QX2142CM28121A2tt2V82Sl318i278318k31bu2dM1I2s127c2vr2T72RR27m2Sb2d731891021X2bz27c21h21H2UW2YV31bv1Q2OM2Ox31c02861p31c32Z52sA2YT2d731CL28131aF2DS310f2Di2z72OM2YJ2Xx2X42y02D22U01W319527A31Bw31d8122ox31Cq2Yu2z02oh2Pd318F31bt2CH31BW2Ch31Ck2CW31C131Cn2U92Rh2ys2yu2q82Bk22a22a2QD2242242sk31CS31dp2782762T731dT2oZ1s2gi31D62Vw132Oh2GJ2772Ad31dj31ej31852e429W31842kX2Z42802cO2eb2ed2fS28I313e1T23h2Nx27821421D23s23G24121V1a26f24o2562612fq25c24Y21e2f02ak21W2112r421T23421l2Bt232316621U315r315t315v315x23e31702jT2jv2jx2jz317623131782Zd2zF1n2L523F317e10317g317i317K317M317o1R317Q1j317S316E2J12j32j52ba314Y31502el1q28o27l2221a2212hf2aZ2r4315Y31702mC314C314E1G21I213162C61923231412Jy1N31441431462AV2Dl2k8315N316031623164312R2262171h132F82Fa2hf237131s1531ez2N1237312V31HD232315J2nv31222MC31252Fl2FN23031302Ay2Fj31Hk1n1x21331H321m21P2k922s314N2ZP314p22c2o121T1y1N1t1V1N2L72303149313S1l313u2FO2Zj25r2Zl2J9312t1m312v312X2342o12382iL1R1o1F173147313X313z2M328i2nT2Nv31662zx2K2316a2el23e1L1o25726f26R21X1e25521p21L221317u1x317w312x310B27823s21N26R2L12Iq315f315H2IX2iG313q314b314d314F1F22y31812Wy310f2XX2qU31CV2xK27d31C822X22X311X2Iq2Yk2Os2yn27c2r42t7311c31c531cR2822oM2s42oM31a32CH27F31CT2dF319J29J31CX2t131E9310r31Dd2212222xc2Ud2GH2Sw2tn112Ad29721e1231C42942Pm2t52hs21N21K31M62vt31EB2sW2Wp1M1322p22p2782Ub2xZ31ea31D82RW31Ee29S31MH2841331E71Y21g142y42p22tl142hq29c2TK2d729C2212Mi2lm2px172tg2Q221F142Qq2wd21J2W621027F31Mo31N02p231N231no1w31Ee2Dk2cv1n31N52aF31ng152SJ31c521G132Wn29l2101321M31Ly27831b829U31eB31cs31o431N531n331oS28431o621h31o828431OA2tJ31oc2Q131Oe31OG2dl31O731n52Pp31AF21T2I92DH21f2N52e831n428431nF2tD142St31bA31OR31BD2R729431Pq2dk2sa31Of2WN2oo216132rj2q031NZ31or31o231Pi31P631p831p01631Ob311U31p531OH2451i1321Z21Z2Qd21t2CC31nZ31A131OY31n52rO31qb2xj2OZ1p1631OR312v2gU1k2GJ1b315w31LE1y31pF31122vt1R1431oR31nd2X42cV1G27F2Fl1v2pF21M28i27h1b2KN2782dk2PN2xt2rw2D529S2rj2Wp2Lq31rS102X822822829U1n1831Or2d527629s2WD21f2jV2B9182rL1l132262262Ok22c22c31Pe1331R71U31R931Rb31rg31n321H31rf27f2w331RJ31rL27m31Rn2I931Rq2D922n22N31RT2mT1731RW24X2LQ31T72782x822L22L2qG1s31ta2UZ31aF2222Ig2q724231SH22J22J2OK22O2jg2d82A722S2oa2WO26v2291231U12dc1322q22Q27h21f21d31eC27h1X1Z31Uf1023w2591I1Z22V22v2oK22t22t31uC31ue27R31UH31UJ31NZ31841q31pd27m2eA28331v22d731eW2B62b82ba1h1o27821W1b2U72382IS2qw1h23927H22r121f2322392392is311421v2j92e231L82oE31E5310m2u931M92D52yU2PN318E31V42781R2hS2Aj2N121z2122bG218219316q28I22C2hM1322t31ij28j2rb1t1h21m21o312G31CN2I01J1M314m2J92AZ2H8102pb231313x22x2c7317T2j92is1K141G31Ji23H1v2QX102l42l631wu2182iU31JI1n21M21l1j1R1d31j2314W2hf22T318t2hQ23f31ID312431IL3127230312R22V1831RN2zv1131kl27821G2382213154222211162C7171W31y831ih31gc2jT152bJ312N2Bt1Y2171F132kJ316P31yB122II2ZV1O23j2FZ22c1z2bQ1b213213181922u31gC31gE317J11317l317N317p317R31xc27821v2O029O312m23H31662371m1H312M311431vg121l234312222v31Z82KH31IM31Xi3122312C312E1m1q2KJ313u22t31f11021R31Jf2782JI2Jk2jm2KB31662241Z1C121d2Sg320W1N22Z24V2521T22L1w23d24R23x28G31ex28l31i52IQ234151N1E312h22y2Bj278320J312F3157312J315B312o23F31662l42iJ2Pp310131iM23f313X22a21F1O23431H121n1d2AI22T2k72c531xB320z3211321321R2mw1R1P1423h322D29t1R23H2n122621n2c61t1R22U31iB2BH312r22X1q21821p172H822w2fZ2MR2Mt21721f1j3152322D111r317S2hf22C21p1T1O19230312222B2eQ323c162q32lF23e2la27822A21j31vk21N1X21P1Z1H1m1P22v1B28222N1o2Io2iq320V2JL32172fQ21S2672672Nc27c26823Z21B31h02DL2Fu141c1u23e2Fz323821821O27a2em316p321s1023531Xg2oH21m21C1121D31hv2X41l1v314v23123023z24P1j321d25N26L21I31vc2ay31rK2E71d2H92O721O21f151D1s1621R322M322F31WI23132612lu2102iu21Z2d131VG21X2Df23731IL314622a22r31502IK22P2m421i313923122621s1E21L24622q22p23u21I2Hf2Hh2Hj2HL2FT2kQ23h314r314T2o61123b215171123A22327021026K21I2N123231jp31JR31472fZ31j031j231J42L7316p1U318T2HG31TL21e131l312m21221f32662182o0313S161J2MT1q31zV2eh2ZD2r51H316p31662g11c1Z2111j2bK31x72Bc327e1431IU2j921v21d316O1d313s315z2DL2251y1Q161M31J72ig239329k2x9322F1l23031Xk2iz31go1C2H92er1A21c2Ld2Lf2lH31512LK2O12ei2ek2Em1q22o2kX2182302212bc21Y2152U7313728I2bB2a822T2m42M62m8314r2lp2lr2LT23e31gn316G31GQ22q2O122u31Xw31Xy314V327n23725Y25k26f23v1S26y25d321h27822F21E2D531X227822e21f312M312O21S316W2JR2lo2Lq2Ls2qX2LV1q1g1L15215325E22B21e1O21G2142QX1i31qw21J21J31xf31Xh1723121i1X1R24522A22O22x26c320t1031xa2MT28u1222U31Fs21c2FK319g31yo31YQ32442lB323Y329Z21j31yt31282n12hO111D3209328r3229161331R210322h2dl312T31Qw1d22t2O12ff2Gd1832051b2342FZ23b1i323C1s2bG1E1H23H312232101821g32d92hW313h28g1721k1z2R5316p2hF22U171D31xK23031gc22D212310121N2131U2wh31If31Y9320Z21L1K21e326010313S191K32562aK22p31r01r1s2C62PO23h313x21y191p22N2122Ty312S21932bz1C1p3146316O21W21u1R22H22h323u1h2z521Y31R02ge328o2211i22b21y171J22A21T32gA31Yl22521t2Qw31462241W313X31Yc1B2312N12202151F2b9323v312R22321a1s21M21831vg2Kl19312R31791f2gk316P3170317931G82L521F2SU2d32313170236171R21D31XQ329k31JS21M21f1P1K22w1Q1j27832HM32ho32HQ31xS31Xu32b431xZ1122V312R22p2mm2lq181423821N1326E24823e25j21h26G327x2iQ31xN31392l831hg3143326T31472bC23831yp314G2bC314z1l1s22P312r2C42B131J52L8323q2lD18152392Kx2aH2hF22S2Im1n2m2324R2rj22131Id2i521M32ec32451022W29t2Ef32I632B622V2Ik31VE31Vg1q23831JN1q1m1B22w32ib1N326b2iM1922v31Xa23222W31xY1n22K2KX2211932jQ2fd31Fk2R421321531N611324Q27D23K25S1g324V27c2kZ221320231XR32hs325a2dG32DR31Kv314A31H7314F2302n122p32IE313U322W318m2AY21k1a2L732en1e31x021g2Jj1L1i1931J322S3170322Z31Jq31Js1x21i32Cf2em3128315431vo2ZV1D21M21931J51s32De31283122328Y21j21831pj21T21m32Gt2Hj320W22p32Jv2371I1n2f51731J931Jb329M2l331RN1l172lh1C22s2hF320d2ii1422Y31Wq324732j4312h3209328v31g22im32FI2i92371A1n31032Dl314z2MM315y31wQ32NF328N320L32Dv2r431Sh2KJ230328x2KQ32Ez31iH315E315g2Nq230323q31zf29O22V31542K61a1e21m21431WS32O7323v2hX21N1e1f1s21f21h322Q23D31542391r1u12323232051N21721k1I2i6317022i1J2131A27X21M2B4192ar312W23F2fZ31FT315s21r21531wT2fo27321J23v26d25827221Y23O2171l18325e329h329J1m2132kt2po1122n23631562b922Q315431hU31HW31HY2122181j2ap31472k7317b32Ld325E32NF2PE2dg2Pj32p731J32LS317L23431Z732pa1b1O23826626527q23B22W23D1W22W22x22s22t1w32Rh22p2381W22x23732RK22P23423422T23222x23222V21r21832rP22T23023032rT32RP23323923022s1W23632rr22w22T2361w31Vi32Rj2382331w22Z31us23432rP32kc32rs32ru32Rw32RY32S032s222V1w23722T23122x21932T622R23622T32rs22q22t22r22p23932T632rt32rS23b22X32s91W32TG32Sh22T22p32s932RJ32TU23732sp32SR32tD23a32Sl32tL32S032kI23231us32Sm22P23232SG22X1w22s23323232Tn32Ub32Rs23832Sk1W23423022p23d32sL1w21423D32Sd21532sN32Sr23122t23732rV32uB23D32uM32t31w23932sV22Q23932rs32UG1w23223332tn23323623632rJ32Uw31vT32t522P22U32Ro32ub32sG23B32uH32TF32rO22Z32TP23022T22s21A32Uf32SR32vH32Ul32Vm1W32VU32Tt23123332U332SN32Sk32TL22v23932sZ32vk32tt32t632RS32wN32VO32RP32w132tR32vz22X22R32St22S21n32sB32rX23323023332KI23E32RO32vc32sY32rP32Uk32UZ32ss32su32Tm32wB32rV32TB32Td32Rs22P32rv23423332V322X22Q32w21W23g23G1W22c22021X1W22822a22721Z22A21X2xT1w21u21t22a1w22f21T22b1W21w32y822121z22621X21w1w21y22732Yd32Y322122E21T22C32y122B21X22A22E32z132yh22822d21U22422121v1W32Z032Z232z432yE22131E11w21V32gF22B2201w32YX32ZO32y422d22632yp31Cd2nZ32Y222a32yv32yX32Y81w21J21H2111w2191w21D21C21C2111932k3312s31Ki31TB2n62K1191l2132161A323C1821a328T21D323J2hB315Y312R328y21I32mi2352bC321u31KL26821426g22P22g22w22w23n25H25w23221z24d2ej2jR32472mj32KZ32m82bK32f732F92o122421132ox1S32F72322o12Fu325O325Q317s31k02Fg3176316b316d2iG3203331o2Bt32f931Wq331z330K332132Oc2fO25l1z23926X23i21f26h32cq312R21Z21H3146325Q1d320B2fD22A2b021p32eC316E31fu2V3315S22U2o132NF101H325332552n131xA312X2x9328r22I31911f1B1C1M31Fy2Jr2mc2ME2mg2mi2Mk32NZ2KC32Bm32BO315c32mS31I02lH324f22v2BC313Q31Zk22u2fZ313i313K313m32mC2EG21U2172jv1531z4191W330u328q2HF31yN1D21731wj31zD2kq2g32g51932le329V2H121H31zu313X2ib2Id333831Z831G92AB23E31gc316f18329x2HR2Es21332mq2a532mS315E1y2bG32N132kL28I331s2hU2M9331J21j31S62j41Z21f31xx32I7334531Jx316s32LJ2iQ31i731HC31FQ3154314S31yP2BS31YS312631IH31Wq31FT312X331M32Ar21h21l1h1T334Y2No31kT32eD32Bm142SA336g31282hf21t290320423h325e32Nk31I32gD328721J2B01T31gl1232o92LM3247335X1h334m323K328q31663371328E328G328i314V22u313X2341s1U32202lm2AZ33691921d31KY32j128I2381T32ql2hf23832Ot32oH31HN31052kB313x22t31mS22X25M25f25O21V26021326123q2122ng2Ni2nK2nm32832Q1329K10331V32Dx317032nF1N1c27q1b312M32B61T315O2Lm2C432p9312m32PC32PE22o330X329B2z12MT31uQ2Ak22B2mW318t1B2mZ2I62Bc31791L32e72fd22r32MB31s6317K322b31Jm32fe31i831fQ32JV31Wf2Bg2uN332a32f832d4278313Q2E7141e31hJ314622z1322u23424s21s1522923v32iP27832032xa32hn22v312223132Mf1f1V1u2IK339C320q2I82O131yw1931bN1m1r22p2192w81031T828033bp33bQ33BR27D22e317033a22gq2gK3118312m31h81m22Y25r1126522221U25L23f23z32bg102K632j422p31J8313t313v2nW27V21331BQ29N1023d320l32ZS29Q1121w31qL22531Ns17142Uz2252271921Y142bK1531c41g22C1R22721v2iI326Y315e335J1t335L324N31gT315232JV329H1B1H1P1921i322P322R328r31xe1432ff1N230315422P22A327Q31yp29s112h9313S21A2N12362LE1A324i2Oa2Zb31G7317B31G9314732MN32Ob21C3213316m2K62Dl337t285312p2O1329O31011m152R4323e2aK324O2Jm2jO2I632dZ31Hy313L2J5312832iY329r336U31GD21329w2ls21c334H23b26526j24f24v22H22w26O26933aY1032o21n1223i31Jd21I31Ju2m123i31662MR1P21832Ob32Ar33e22Eg32a831s02HB21J335N1832N123c25i1324T22923u26M23S26R21i31662KE323o112Gv21l32ET32qv2dl2l431RN322s325e332932r131T232R41V32r6332W32A733dF2Jz1929E2Ig31zO31gG32gS32IQ1H33H732332BC21x21731JP23831fE2401g31Kg2J933Hv31z331Z532Bl2lU21m2ki2q531He2FZ32jK2nU32p81P15323v313X237312m31gB27d21s2PG2211t2s222D331v33Gc2M732QR2ht328n328p23127022R26k31B922j25624E2TO2IG328Y21332ar22V26d26F27832RH32SP32rL32xj32sl32U332SM32TC32xn22w32S532S732tQ22x22u321d32sD32RW32wg327932Vv33JW32Ue23022x32st1w32V133JY2391W32TI32uI33kd32si23722W32t533jn32U432Wh32Ro31VI22p22S22X23822X32Uh32Tv32XC32RJ32Xa32wt32UM32Wh32Sz33jQ33kI33Kb33KD32Ub33Kg33jr32UO23622X23A32rR32RO32t623633JO32v432Uc32Uo23932xt32wX33kK33Li33KM32S232wB23632sd33ll21h3307330933k932s232VD32v232tt22V22p23622S32W232V31W23333Jx23422r32t532rZ22r32rV32wN32tO22U32ue23732RZ32w31X1931Fz317232nP2K031k22K531Gc32mE2eM32JT171o32KE326A33F232Jb2Dl22E338431yH2g01K22132JV31ZE31zG3331336Y31ya2J9320333Nl3166313Q32ex319J219182iP1N328R31ZX2Jc2JE1s23421A2321M2281b21j26C26w33gw2lm32m53281334M32ha337E2n1312t171g31wB23e32Hy33aZ32042172172o42Fk1521n28g2pJ314U332w33OP33fY31z833OS33Ou311433OX1d33Oz2hq332w313d1m1j1s2kw2Nd221317021u21C1R33Nv21p32eT32q921121F1T1D23g32Jv33a2313v33A432en151V1J33nm321t1K2Vv21r32C122c31sh27M28W27D121C2Jr31w229e33OS27h21p21Q1231B531M71324a24a318x142602602uK152YM2UD31nk23f32pr2uD2py23k23K2ti21z2Lr31r02ud32fK2wn29C21x1A25r25r2tI31Vf31Up2Ti21V1C33eG27q29C21u1D2Tx2Ti21T1E31Bq2ti21S1F1k313A29c22n1G31Ni22l22m1H331A2TI22l1I2712712ti22k1j22G22G2ti22J1K23z23z2tI22I328F31lE22l22H1m26X26x2TI22G1N23R23r2tI22F1O33rg22l22e1P227310H2ud22d1Q32S92Ti33db25Y25y2TI22b1S25j25J2ti22a1T2462462ti2291U24u24u2tI22833b82a72ud32SR310133Rt22l2321x2572572TI2311y2DB2ud2301Z23p23P2ti22Z21026q26q2ti22Y2112482482ti22X2122DF2tI22W21332VL2tI22v21426e26E2tI22u21526d26D2ti22T2162W32ti22S21724I24I2tI22r21824S24S2Ti22Q2192ww2TI22P21a24J24J2tI22O21B25x25x2tI23J21C24f24F2tI23i21D2582582tI23h328D2D22Ud23G21F32ox33uB23f21g25125127H22232l821g21G319Q2ue1326c26C33QV31oD31ob24n24N2ti31Nk31Mc2R22uz33rA1831Us2Ti32Fk2d533uB33Ri25S25S33rM1B24g24G33rP28u2DX33ru1D25Q25Q33Ry32lv32hz2Ud33s326m26M2tI33S823131g52Ud33Sc31TU33Sf1I25W25w33sK1J25K25k33sP1k324T33Su1L26G26g2Ti33SZ26J26j33T31N27027033t81o26h26H2Ti33td2QW2tI33TI25H25h33tl1R2R433tp1s31oO2ud33Tv2Xp33TZ1U27227233U41V22R22r2Ti32sr2152oq2ud33ud31DY33uH1Y23m23m2ti33um2V729C33UR25f25f33uv21125625633v021223t23t33V421323X23x33V821431aj29c33Ve25925933vI21629P33Vm21725C25c33vr21822D22d33vW21921D21D33w021a24724733w521b26Y26Y33Wa21C33t633WF21D24r24r33Wk29031W233WP24Y24y2tI33wT31M933wY1233x02cz33x325p25P33qv23Y23y33Qz31e133xc3130313131nN32K733xH1G328v33Re1924X24X2Ti33RI24c24c33XR24124133XV25U25U2tI33rV26L26L33Y224524533S21f22f31802Ud33S823u23U2tI33sc32G033YG2Y222l33sL31tI33YO2yd2UD33sv2qu29C33SZ32rY33YZ25425433z326U26u33z732fm33BO29c33TI23223233ze1F1e33Ub33Tq25b25B33TU1t24b24B33ZN25T25T33ZR31vS33ZV1w2IJ33UB33ud25E25E340223Q23Q34062j12GI2Ud33uR23N23n340D1D33972UD33V131rz29C33v533Qq29C33V923W23W33vd215250250340W21f21F340Z318b3413268268341726S26s341b31c429c33w62RO341J26b26b341M23V23V341q24T24T2tI33Wp225225341W21g2V333wX33Wz31OF132W531Cd33QV1I2y62Ud2tk23J31Zc33r21631Ua2TI2py24M24m33xH26O26o33XK1931pn2Ud33RI23S23S33xR2vM33xv32xW342X1d25I25I33y2331L33Y51f26w26W33y91g244244343C31Wu31LY29c33SG26326333yK24K24k33YO24h24H33YR26K26K33YV1M33wI33YZ2tC33T92uU343y27T33ZA1Q24o24O33zE2212f02UD33Tq23i23I344c31LL29c33U02uJ2UD33U5312033u81W25D25D2TI33ud25V25V340222Z22Z344V31mu33UQ2102E733ub33uW2n633UB33v124P24p340L2qf2uD33v9252252345F22M22M340w23O23o340z265265341326126134172ws341B31d32Ud33w623h2Fy2Ud33Wb25M25M341m2rC2Ud33Wl31lb346821F31qL346C26N26n346F342031n9336w218316231L42TE26r26r27h22122531bB346S34az27823N23K33Cz33X527833w82dh21k1833Ym31t927624q24q1122121t2KN2i933RH31F933jh2Dm1Y21N1b33Yi2dH21o1C33YQ2p234532S833YT33XY34b627m1W21B1e2vA21I21N33qh2jR1122822L321233QG339721N21d2Lm33Xv2692692w91O2Co1a319I2Ai1831eT1023N33T71434bD1033vg2Dh31n934BH31NC31Rg31Sm34bm34B333xE31nK26226227h191C142z729731N933Uf2rW31Nd31AP1W31ND2Qw29721h1534DS31B02Dk344q31Ps311J2w729721I16345p2rw31qY16345s31nn344h29h21o2Iq2DH21j1734Ec2p233E71734EG22l33rB344A29H323B31CX34bF34Ep29431s81834et32Fk24Z24z29H21e31tq34bU21l1934f11w31zK2x434ET33RI2PU27Q319j21F2Ak2DH21M1a34FF2mj2cO34Et31VF34F729H21c2Fd2dh34bW34Ff33eg29p34et33rQ34FL27m34CO34Cq34bu34C034ff34c41C34et33Rv34fy34GA327c31Cx2Hz34FF1C2df1d34eT33rz34G9319J314D31cX21q1E34Ff34462rO34eT33S334gK319j21G33qi34bu21r1F34FF32OX2rZ34ET33s834gv21n21h31312Dh1w1G34ff2Xi2OH34eT33Sc34H621n21631Qt2DH315A34FF342H2S434Et33sG34hi31hV31CX1Y1i34fF2Ij2oX34et33sl34HU2142oy2dh1z1j34Ff346m2rH34eT33SQ34hI21533y42DH2101k34fF1L2Rj1K34Et33Sv34HU21a2yo34Bu31fL34ff33S52r434eT33SZ34hi21B2R5318232eT34FF2IT2QW34ET33t434Hu31XQ31Cx2131N34FF31012x834Et33t934HI32mi31cX2141o34FF2N62UZ34Et33tD319K29h1y31vD2On1O21B162q026Z26z2972151P34e22942E72vr342h1G21121e1633x531C21y34kI33zp2rw34KM1p24024034kL2VR1P27q34kP34kR34L12Vr2OO34kC31bn31u12oo21a2pZ1Y23a23A31sb1733x531Oa34Kv1P346034Ky34l42ER1J22L33tI23e32562Ud33Db34lY33zH34m231C521a1p31c434ll25325334kU34Ki346K2p234KZ34ET33Ti23523533ze34mj33zH25o25O344c34MM34M51p348y34ll32Cd34Mc1P34me34l32VR34Mh1Q2It33ub33DB34MR29C33tQ34N433ZK1t34MR2Sa34m634Mu33ps1731Qi34lA31A6182Q02pg2wD21O1833X5318Q34KI34lr34mF34lt1R34lv33Ti328K33ZE34O1348N1S34O334Ne34m72z534nP1834mA34NK1x1821U21u34Az34kH34My31CE34nw34N126s34411q24e24E34ml34mK34o426p26p34MQ34Ou34o734ng34nQ34mw31CN34lp34Mz1w34Mg34OO34Lw1Q31s234OT33zh319U34NB34Nd21I34nf1t2S321134nq34nj34P434kW33zQ34Om1p31ca34N01P2TG34OA31Ca34OD182uN31Tx34Oj34NV34pv34lU34PA34n722l34N634Ou34N81s34ph34m634M834pM1823l23l34q026I26i2432432oo34oE312v32Yo34Qr1821p21P34qP2WD21P1933X52762Oo1W1926t26t23D23D2oo1z2Jw1Y2eC2Wd21q1a34nS1734q4346134pS34Q733Ti27327333zE34rR33ZH34rU34ms34qH34Ri34oc1P34rc1a25a25A34Mj34Oj34p634P834OP31yp34n51r34q933tq26626634Oy2q234pJ34PL34rI34P334S734oL34pV34N234pc34m034sD34Qc22l33TQ25n25n34si34ms34Ng34rI34Po34oj34kx34ps34pu34P734L434pX21134rI34pz34s11o34rD2UN27O34rM34Ls2Vr34rp1Q34q934qB33zh34qF34o834SL1a34QK34nK34rD34qn34Qp34S234qt21w34s234Qx34Qz21121R1B33x52CO2Oo2111c2Q024v24V2wd21k1C34RK34TK34rO34ny34PA34o329C33Db34uq34sW34O521834Sj34TT333A21134UJ34s034uC1c34oG34oI34P534Sp34t934ON34Sa327q34ST34SE1s330a34t034p034pK34Uz34uJ34Sn34V734Tl1p34Sr31s334vd34sV33tQ33X034VH34Pi34mt34vJ34Ui1C34t434LP34T634pV34T834KZ34tb34UJ34Te34V32Un31zK1j34lp34q534v91P34Tn34tp34Su34tR34oz34VX34QH34Uj34TW34tf34Ud34tZ34qq1o34Ud34U234v334u52432wd313C33X52s82OO2131e34uF34Uh21121m1e34ul34wf34RN34q634Uo34O034Uw34sT34uT33tq34O634wO34o934xb1E34V21o34x734V526r34SO34Vo34N234sB34Vs33ZH22Y31L134PG34wn34Sk34uZ34XC34Vm34md34v834s934Pa34Ss34uR34Wl34O424224234vW34Y82Wd34xc34w234PQ34Vo34w634tA315A34xr34WA34Xu33am21i24924934uM34Xh34NZ34TO34Sv34tQ34O434ts34qh34xc34wr34x61e34wu34zE34wY34Yy34x02WD21N1f33x52YZ1o21l1g2q02552552wd2101g34XE34nU34xg34wH34Tn34Ut34uS34XK34qd34Xo34qG34xQ34ZX34s029c33TD34c834zW1G34OG34Mx34S834L434Y034VC34yh34ve21K21k34Ym34vy34PL34ZX34YB34Ok34Xz34P933ti34YG34Qa34Yi34qd34vv34y634Ux34nG34zx34Yq1p34W434Wh34YT2vr34tb34zx34TE350D1P264264350U31h921I34mx34Wg34KZ34Wj34z7351334uu34zA350a1g34wR28y21734L527v350g34qn31c233tc1p21w21W351n312v349E21F35222sW350G34Qx2VR2wD2111h33X52oh351J32v334PL352m34R834nK21n2971y34zU2Wd2121I34Zz34lQ3501351s34xi32393506351234Xm34Uv34Ux34qH3531350C3528350f2113531350I34pP350x34pS350M34sC34vE26v26v350s34ng3531350w350K34va34Yf34vR350O34VT1s351529c33tv34TS353v1I351A351C34kz351e34Pw34yV3531351i3528351L34pl35312UN351Q353534NX34z534WK34VE351x354l1I3520352f3523354v352631dr33TD352a354v352D34l5354Y352H353J1I352J1P2Wd2131J33X52ox352Q23734pl355f352u34tF21p1k34zt34ZV33051k3533351R354Q34UP3539350533zh350834UY2Wd1w1K353G350E34B034Uz3565353L34Xy353O350z329J350n351234vE24l24l353U34VZ355t353x34yD350l356F351134z835142Wf351634t1356N3565354b34Pr34W521x34PV34tb3565354i33tD354K356A1k354N353M355W34tm3537354S3543354u357B354X352G3524355t3551351J3554357b35563521354z357B355c2wD1X1l33X52rJ355J34Pl3580355n351J2vj34pL1y1M2Q0352K211358b355v354p357G34z534GQ34sC358L34O4358N34O734qh358B350C34vN356e34Vb353q35432Xi33ub354734y7350T34uZ358B356p350y34oP356T351v33tq25z25Z356m358a1m357134ys21x34Op31Zi27H22822034lT1q2Wd358B35781p31Sj359F357D34Z33502357h351U354t3592358R1M357m357W359R1m357Q3528357s35A8357u3558357o358b357Y2111z1N33X531Vk2nZ1O34UL352825G25G348G22322327H216322A34tM1Q34Oj34e234oP24w24w359m359O35b02cV314e2vR2D52Ub2eR27f31q234Vx34Ah2Q8181P26326127b2d325w25y27b35b233ug33TH1Q35b535b7359p34pv31aP21h35bB33dS1835be31R91435BH34m634Ah34OP2RJ31uc2152Pq31W233tQ23b23B34T02xa1931AL27v29g2rC2pD2xa181V2vA27q27F2Xa21j31d72I92DB2cr2Q633Vl312033z92Rc31lg31DI22122X2942uc2vb21K2th31821h1x33Xg2Ud33ui34C831Af22R35dj2782XA32Cj2Dp29g312035Cz1H21h2rA2Dl2Up2XZ2cR2Up31nP2uB28y1h1z2SW2XA21F2102Z735e528p2ym35e72AX2UB29c33UW34N7358b21225l25l2Dh1n21334kk1w21231ZI31ip1L2Cv21F35f233Vp2Pf1P33Co31rm2182ed31bn2pn26T26V35BT22l33vn35dq22B23B2sT21133oS2RL32A126r26p27b27A26U26S35fj33v134D123O23Q21021226Y26W27B2ST26w26y35Fj33ti31MY2Pn26z26x35GD1q233233340H22u334927M22823b21227F2EC345B21431qc1122722W2ec21231bN2XA21r2142Qq2Dx31Ny1921A35H331BO29C33v123c23C359m35Gs35Gu353122L33v521V21v35Hj35H231zI29421335h22mJ34Lv33V524d24D2Q723Q2112131i31HW102EC31YD28534bm23221231od2vb21r2Ed340H311427q35G335G535Ia32F62FW31z327m22135id31NB35ig35II345521234C8345834Jp1M35iL24Q1831Wg35iR31zi2bp2852Pn1l31Ms34BU1M21231lG2Ud33v526a26a27H21v22s35IX31er27L"
+        ),
+        (#F - O)
+    local function o(e, l, ...)
+        if (e == 871093170) then
+            return ((n(n((n(l, 41618)) - 672691, 476989), 230014)) - 203455)
+        elseif (e == 757926420) then
+            return ((n(n(n((l) - 852964, 84543), 237301), 704562)) - 807027)
+        elseif (e == 961012670) then
+            return ((n(n(l, 219883), 545985)) - 965938)
+        elseif (e == 671833763) then
+            return (n(n((l) - 998355, 400612), 497950))
+        elseif (e == 378731247) then
+            return (((n(n(n(l, 244631), 618462), 341637)) - 790304) - 122741)
+        elseif (e == 256514008) then
+            return (((n(l, 324978)) - 817830) - 847383)
+        elseif (e == 216636964) then
+            return (n(((n(n(l, 614551), 731398)) - 621376) - 47538, 486678))
+        elseif (e == 615135024) then
+            return (n((n((l) - 937048, 339698)) - 945780, 339295))
+        elseif (e == 336263453) then
+            return (n((n(n(l, 105121), 391080)) - 787158, 81267))
+        elseif (e == 736670528) then
+            return ((n(n(n((l) - 484988, 873911), 906722), 463752)) - 451550)
+        elseif (e == 648965604) then
+            return ((n(n(((l) - 525288) - 169811, 426283), 832052)) - 725562)
+        elseif (e == 237990604) then
+            return (n(n(n(l, 547908), 981294), 199414))
+        elseif (e == 767734069) then
+            return (n(n(n((l) - 42081, 68288), 987626), 456389))
+        else
+        end
+    end
+    local s = l[(235387879)]
+    local p = l[(#{810, (function(...)
+                return 322
+            end)()} + 742216480)]
+    local o = l[(22970140 - #("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!"))]
+    local a = l[(112425137)]
+    local t = l[(193593747)]
+    local i = l[(444105414 - #("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!"))]
+    local b = l[(#{308, 414, 435, (function(...)
+                return 881, 42, 111
+            end)()} + 537414299)]
+    local g = l["COl89M"]
+    local function r(e, l, n)
+        if (n) then
+            local l = (e / i ^ (l - a)) % i ^ ((n - a) - (l - a) + a)
+            return (l - (l % a))
+        else
+            local l = i ^ (l - a)
+            return (((e % (l + l) >= l) and (a)) or (t))
+        end
+    end
+    local function t()
+        local l = n(u(x, d, d), e)
+        e = l % o
+        d = (d + a)
+        return (l)
+    end
+    local function c()
+        local l, a = u(x, d, d + i)
+        l = n(l, e)
+        e = l % o
+        a = n(a, e)
+        e = a % o
+        d = d + i
+        return ((a * o) + l)
+    end
+    local function i()
+        local i, a, l, t = u(x, d, d + s)
+        i = n(i, e)
+        e = i % o
+        a = n(a, e)
+        e = a % o
+        l = n(l, e)
+        e = l % o
+        t = n(t, e)
+        e = t % o
+        d = d + g
+        return ((t * p) + (l * b) + (a * o) + i)
+    end
+    local B = "\35"
+    local function p(...)
+        return ({...}), D(B, ...)
+    end
+    local function X(...)
+        local B = l[(604438901)]
+        local R = l[(136451056)]
+        local X = l[(231969148)]
+        local Q = l[(920094712)]
+        local a = l[(193593747)]
+        local C = l.almkvn4Exu
+        local p = l[(413291554)]
+        local g = l[(683465076)]
+        local b =
+            l[
+            (444105442 -
+                #("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)"))
+        ]
+        local N = l[(364781244)]
+        local O = l["jqrDIVtNNf"]
+        local U = l[(25795092)]
+        local I = l["bWuBAp"]
+        local M = l[(600152983 - #("psu premium chads winning (only joe biden supporters use the free version)"))]
+        local z =
+            l[
+            (67425214 -
+                #("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))
+        ]
+        local k = l[(866511168)]
+        local D = l[(407197750)]
+        local y = l[(235387879)]
+        local E = l["COl89M"]
+        local J = l[(158165313 - #("psu premium chads winning (only joe biden supporters use the free version)"))]
+        local o = l[(112425137)]
+        local V = l[(425304153 - #("psu == femboy hangout"))]
+        local w = l[(22970061)]
+        local Y = l[(259086801)]
+        local v = l[(931093116)]
+        local function F(...)
+            local W = ({})
+            local l = ({})
+            local s = ({})
+            local j = c(e)
+            for l = a, i(e) - o, o do
+                W[l] = F()
+            end
+            for c = a, i(e) - o, o do
+                local f = t(e)
+                if (f == D) then
+                    local e = t(e)
+                    l[c] = (e ~= a)
+                elseif (f == Y) then
+                    while (true) do
+                        local n = i(e)
+                        local e = i(e)
+                        local i = o
+                        local d = (r(e, o, D) * (b ^ p)) + n
+                        local n = r(e, J, k)
+                        local e = ((-o) ^ r(e, p))
+                        if (n == a) then
+                            if (d == a) then
+                                l[c] = A(e * a)
+                                break
+                            else
+                                n = o
+                                i = a
+                            end
+                        elseif (n == v) then
+                            l[c] = (d == a) and (e * (o / a)) or (e * (a / a))
+                            break
+                        end
+                        local e = P(e, n - U) * (i + (d / (b ^ O)))
+                        l[c] = e % o == a and A(e) or e
+                        break
+                    end
+                elseif (f == z) then
+                    while (true) do
+                        local i = i(e)
+                        if (i == a) then
+                            l[c] = ("")
+                            break
+                        end
+                        if (i > V) then
+                            local a, t = (""), (h(x, d, d + i - o))
+                            d = d + i
+                            for l = o, #t, o do
+                                local l = n(u(h(t, l, l)), e)
+                                e = l % w
+                                a = a .. m[l]
+                            end
+                            l[c] = a
+                        else
+                            local o, a = (""), ({u(x, d, d + i - o)})
+                            d = d + i
+                            for a, l in L(a) do
+                                local l = n(l, e)
+                                e = l % w
+                                o = o .. m[l]
+                            end
+                            l[c] = o
+                        end
+                        break
+                    end
+                elseif (f == b) then
+                    while (true) do
+                        local e = i(e)
+                        l[c] = h(x, d, d + e - o)
+                        d = d + e
+                        break
+                    end
+                else
+                    l[c] = nil
+                end
+            end
+            local n = i(e)
+            for l = a, n - o, o do
+                s[l] = ({})
+            end
+            for A = a, n - o, o do
+                local n = t(e)
+                if (n ~= a) then
+                    n = n - o
+                    local m, x, f, h, d, p = a, a, a, a, a, a
+                    local u = r(n, o, y)
+                    if (u == b) then
+                        x = (t(e))
+                        d = (c(e))
+                        f = s[(i(e))]
+                    elseif (u == g) then
+                        x = (t(e))
+                        d = (c(e))
+                        f = (i(e))
+                        h = (c(e))
+                        p = ({})
+                        for l = o, h, o do
+                            p[l] = ({[a] = t(e), [o] = c(e)})
+                        end
+                    elseif (u == y) then
+                        x = (t(e))
+                        d = (c(e))
+                        f = s[(i(e))]
+                        h = (c(e))
+                    elseif (u == o) then
+                        x = (t(e))
+                        d = (c(e))
+                        f = (i(e))
+                    elseif (u == C) then
+                    elseif (u == a) then
+                        x = (t(e))
+                        d = (c(e))
+                        f = (c(e))
+                        h = (c(e))
+                    end
+                    if (r(n, g, g) == o) then
+                        f = l[f]
+                    end
+                    if (r(n, I, I) == o) then
+                        m = s[i(e)]
+                    else
+                        m = s[A + o]
+                    end
+                    if (r(n, C, C) == o) then
+                        h = l[h]
+                    end
+                    if (r(n, E, E) == o) then
+                        d = l[d]
+                    end
+                    if (r(n, B, B) == o) then
+                        p = ({})
+                        for l = o, t(), o do
+                            p[l] = i()
+                        end
+                    end
+                    local l = s[A]
+                    l[-R] = x
+                    l["lemhncDIQo"] = d
+                    l["WiC"] = m
+                    l[-X] = p
+                    l["bsZA0Q5"] = f
+                    l[N] = h
+                end
+            end
+            local e = t(e)
+            return ({
+                [Q] = e,
+                [306654.23448548804] = W,
+                [668884.5318826695] = s,
+                ["tWWFTzL"] = a,
+                [M] = j,
+                [-548670.0699514179] = l
+            })
+        end
+        return (F(...))
+    end
+    local function m(l, h, c, ...)
+        local g = l[306654.23448548804]
+        local t = l[155161]
+        local n = 0
+        local e = l[668884.5318826695]
+        local o = l[-548670.0699514179]
+        local i = l[670147]
+        return (function(...)
+            local a = "bsZA0Q5"
+            local y = -287288
+            local E = -554615
+            local u = {...}
+            local s = e[n]
+            local x = {}
+            local e = {}
+            local A = (D(B, ...) - 1)
+            local r = -(1)
+            local d = 936581
+            local n = "lemhncDIQo"
+            local l = (true)
+            local l = (282245685)
+            local o = "WiC"
+            local b = ({})
+            for l = 0, A, 1 do
+                if (l >= i) then
+                    x[l - i] = u[l + 1]
+                else
+                    e[l] = u[l + 1]
+                end
+            end
+            local u = A - i + 1
+            while (true) do
+                local l = s
+                local i = l[y]
+                s = l[o]
+                if (i <= 41) then
+                    if (i <= 20) then
+                        if (i <= 9) then
+                            if (i <= 4) then
+                                if (i <= 1) then
+                                    if (i > 0) then
+                                        e[l[n]] = e[l[a]][l[d]]
+                                    elseif (i < 1) then
+                                        e[l[n]] = e[l[a]][e[l[d]]]
+                                        l = l[o]
+                                        e[l[n]] = e[l[a]][l[d]]
+                                        l = l[o]
+                                        local c = l[n]
+                                        local i = e[l[a]]
+                                        e[c + 1] = i
+                                        e[c] = i[l[d]]
+                                        l = l[o]
+                                        e[l[n]] = e[l[a]][l[d]]
+                                        l = l[o]
+                                        local n = l[n]
+                                        e[n] = e[n](f(e, n + 1, l[a]))
+                                        for l = n + 1, t do
+                                            e[l] = nil
+                                        end
+                                        l = l[o]
+                                        l = l[o]
+                                    end
+                                elseif (i <= 2) then
+                                    if (e[l[n]] > e[l[d]]) then
+                                        s = l[a]
+                                    end
+                                elseif (i > 3) then
+                                    local n = l[n]
+                                    local d = e[n + 2]
+                                    local o = e[n] + d
+                                    e[n] = o
+                                    if (d > 0) then
+                                        if (o <= e[n + 1]) then
+                                            s = l[a]
+                                            e[n + 3] = o
+                                        end
+                                    elseif (o >= e[n + 1]) then
+                                        s = l[a]
+                                        e[n + 3] = o
+                                    end
+                                elseif (i < 4) then
+                                    local n = l[n]
+                                    e[n] = 0 + (e[n])
+                                    e[n + 1] = 0 + (e[n + 1])
+                                    e[n + 2] = 0 + (e[n + 2])
+                                    local o = e[n]
+                                    local d = e[n + 2]
+                                    if (d > 0) then
+                                        if (o > e[n + 1]) then
+                                            s = l[a]
+                                        else
+                                            e[n + 3] = o
+                                        end
+                                    elseif (o < e[n + 1]) then
+                                        s = l[a]
+                                    else
+                                        e[n + 3] = o
+                                    end
+                                end
+                            elseif (i <= 6) then
+                                if (i > 5) then
+                                    e[l[n]] = h[l[a]]
+                                    l = l[o]
+                                    e[l[n]]()
+                                    l = l[o]
+                                    l = l[o]
+                                elseif (i < 6) then
+                                    if (e[l[n]] > l[d]) then
+                                        s = l[a]
+                                    end
+                                end
+                            elseif (i <= 7) then
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                local c = l[n]
+                                local i = e[l[a]]
+                                e[c + 1] = i
+                                e[c] = i[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local n = l[n]
+                                e[n](f(e, n + 1, l[a]))
+                                for l = n + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                l = l[o]
+                            elseif (i > 8) then
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                local c = l[n]
+                                local i = e[l[a]]
+                                e[c + 1] = i
+                                e[c] = i[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local n = l[n]
+                                e[n] = e[n](f(e, n + 1, l[a]))
+                                for l = n + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                l = l[o]
+                            elseif (i < 9) then
+                                local n = l[n]
+                                e[n](f(e, n + 1, l[a]))
+                                for l = n + 1, t do
+                                    e[l] = nil
+                                end
+                            end
+                        elseif (i <= 14) then
+                            if (i <= 11) then
+                                if (i > 10) then
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local i = l[n]
+                                    e[i] = e[i](e[i + 1])
+                                    for l = i + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    e[l[n]][l[a]] = l[d]
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]][l[a]] = e[l[d]]
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]][l[a]] = e[l[d]]
+                                    l = l[o]
+                                    e[l[n]][l[a]] = l[d]
+                                    l = l[o]
+                                    e[l[n]][l[a]] = l[d]
+                                    l = l[o]
+                                    e[l[n]][l[a]] = e[l[d]]
+                                    l = l[o]
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    l = l[o]
+                                elseif (i < 11) then
+                                    local n = l[n]
+                                    local a = {e[n](f(e, n + 1, r))}
+                                    local o = l[d]
+                                    local l = 0
+                                    for n = n, o do
+                                        l = l + 1
+                                        e[n] = a[l]
+                                    end
+                                    for l = o + 1, t do
+                                        e[l] = nil
+                                    end
+                                end
+                            elseif (i <= 12) then
+                                e[l[n]] = C(l[a])
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i > 13) then
+                                e[l[n]] = m(g[l[a]], (nil), c)
+                            elseif (i < 14) then
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]]()
+                                l = l[o]
+                                l = l[o]
+                            end
+                        elseif (i <= 17) then
+                            if (i <= 15) then
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i == 16) then
+                                local l = l[n]
+                                e[l](f(e, l + 1, r))
+                                for l = l + 1, r do
+                                    e[l] = nil
+                                end
+                            elseif (i <= 17) then
+                                if (e[l[n]]) then
+                                    s = l[a]
+                                end
+                            end
+                        elseif (i <= 18) then
+                            local a = l[a]
+                            local o = e[a]
+                            for l = a + 1, l[d] do
+                                o = o .. e[l]
+                            end
+                            e[l[n]] = o
+                        elseif (i > 19) then
+                            local n = l[n]
+                            local o = e[l[a]]
+                            e[n + 1] = o
+                            e[n] = o[l[d]]
+                        elseif (i < 20) then
+                            local n = l[n]
+                            e[n](e[n + 1])
+                            for l = n, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 30) then
+                        if (i <= 25) then
+                            if (i <= 22) then
+                                if (i == 21) then
+                                    if (e[l[n]] ~= l[d]) then
+                                        s = l[a]
+                                    end
+                                elseif (i <= 22) then
+                                    local n = l[n]
+                                    local d = l[d]
+                                    local o = n + 2
+                                    local n = ({e[n](e[n + 1], e[o])})
+                                    for l = 1, d do
+                                        e[o + l] = n[l]
+                                    end
+                                    local n = n[1]
+                                    if (n) then
+                                        e[o] = n
+                                        s = l[a]
+                                    end
+                                end
+                            elseif (i <= 23) then
+                                local i = g[l[a]]
+                                local a = l[E]
+                                local o = {}
+                                local t =
+                                    v(
+                                    {},
+                                    {__index = function(e, l)
+                                            local l = o[l]
+                                            return (l[1][l[2]])
+                                        end, __newindex = function(n, l, e)
+                                            local l = o[l]
+                                            l[1][l[2]] = e
+                                        end}
+                                )
+                                for n = 1, l[d], 1 do
+                                    local l = a[n]
+                                    if (l[0] == 0) then
+                                        o[n - 1] = ({e, l[1]})
+                                    else
+                                        o[n - 1] = ({h, l[1]})
+                                    end
+                                    b[#b + 1] = o
+                                end
+                                e[l[n]] = m(i, t, c)
+                            elseif (i == 24) then
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                local i = l[n]
+                                local a = e[l[a]]
+                                e[i + 1] = a
+                                e[i] = a[l[d]]
+                                l = l[o]
+                                local a = l[n]
+                                local c, i = p(e[a](e[a + 1]))
+                                r = i + a - 1
+                                local i = 0
+                                for l = a, r do
+                                    i = i + 1
+                                    e[l] = c[i]
+                                end
+                                l = l[o]
+                                local n = l[n]
+                                local i = {e[n](f(e, n + 1, r))}
+                                local d = l[d]
+                                local a = 0
+                                for l = n, d do
+                                    a = a + 1
+                                    e[l] = i[a]
+                                end
+                                for l = d + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                l = l[o]
+                            elseif (i <= 25) then
+                                e[l[n]]()
+                            end
+                        elseif (i <= 27) then
+                            if (i == 26) then
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i <= 27) then
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = (l[a] ~= 0)
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = (l[a] ~= 0)
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                l = l[o]
+                            end
+                        elseif (i <= 28) then
+                            do
+                                return
+                            end
+                        elseif (i > 29) then
+                            s = l[a]
+                        elseif (i < 30) then
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            local i = l[n]
+                            local s = e[l[a]]
+                            e[i + 1] = s
+                            e[i] = s[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            local i = l[n]
+                            local s = e[l[a]]
+                            e[i + 1] = s
+                            e[i] = s[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i](e[i + 1])
+                            for l = i, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = h[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            local a = e[l[a]]
+                            e[i + 1] = a
+                            e[i] = a[l[d]]
+                            l = l[o]
+                            local a = l[n]
+                            local c, i = p(e[a](e[a + 1]))
+                            r = i + a - 1
+                            local i = 0
+                            for l = a, r do
+                                i = i + 1
+                                e[l] = c[i]
+                            end
+                            l = l[o]
+                            local a = l[n]
+                            local i = {e[a](f(e, a + 1, r))}
+                            local d = l[d]
+                            local n = 0
+                            for l = a, d do
+                                n = n + 1
+                                e[l] = i[n]
+                            end
+                            for l = d + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 35) then
+                        if (i <= 32) then
+                            if (i > 31) then
+                                h[l[a]] = e[l[n]]
+                            elseif (i < 32) then
+                                e[l[n]] = h[l[a]]
+                            end
+                        elseif (i <= 33) then
+                            e[l[n]] = #e[l[a]]
+                        elseif (i > 34) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i < 35) then
+                            e[l[n]] = e[l[a]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local d = l[n]
+                            e[d] = e[d](e[d + 1])
+                            for l = d + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 38) then
+                        if (i <= 36) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i == 37) then
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            local a = e[l[a]]
+                            e[i + 1] = a
+                            e[i] = a[l[d]]
+                            l = l[o]
+                            local a = l[n]
+                            local c, i = p(e[a](e[a + 1]))
+                            r = i + a - 1
+                            local i = 0
+                            for l = a, r do
+                                i = i + 1
+                                e[l] = c[i]
+                            end
+                            l = l[o]
+                            local n = l[n]
+                            local i = {e[n](f(e, n + 1, r))}
+                            local d = l[d]
+                            local a = 0
+                            for l = n, d do
+                                a = a + 1
+                                e[l] = i[a]
+                            end
+                            for l = d + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        elseif (i <= 38) then
+                            e[l[n]] = e[l[a]] + l[d]
+                        end
+                    elseif (i <= 39) then
+                        if (not (e[l[n]])) then
+                            s = l[a]
+                        end
+                    elseif (i == 40) then
+                        if (e[l[n]] == l[d]) then
+                            s = l[a]
+                        end
+                    elseif (i <= 41) then
+                        e[l[n]][l[a]] = l[d]
+                    end
+                elseif (i <= 62) then
+                    if (i <= 51) then
+                        if (i <= 46) then
+                            if (i <= 43) then
+                                if (i > 42) then
+                                    e[l[n]][e[l[a]]] = e[l[d]]
+                                elseif (i < 43) then
+                                    e[l[n]] = c[l[a]]
+                                    l = l[o]
+                                    e[l[n]] = e[l[a]][l[d]]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    e[l[n]] = l[a]
+                                    l = l[o]
+                                    local n = l[n]
+                                    e[n] = e[n](f(e, n + 1, l[a]))
+                                    for l = n + 1, t do
+                                        e[l] = nil
+                                    end
+                                    l = l[o]
+                                    l = l[o]
+                                end
+                            elseif (i <= 44) then
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i == 45) then
+                                e[l[n]] = C(256)
+                            elseif (i <= 46) then
+                                if (e[l[n]] ~= e[l[d]]) then
+                                    s = l[a]
+                                end
+                            end
+                        elseif (i <= 48) then
+                            if (i > 47) then
+                                e[l[n]] = c[l[a]]
+                            elseif (i < 48) then
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]] / l[d]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local t = l[a]
+                                local i = e[t]
+                                for l = t + 1, l[d] do
+                                    i = i .. e[l]
+                                end
+                                e[l[n]] = i
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                l = l[o]
+                            end
+                        elseif (i <= 49) then
+                            if (l[n] >= e[l[d]]) then
+                                s = l[a]
+                            end
+                        elseif (i > 50) then
+                            local n = l[n]
+                            r = n + u - 1
+                            for l = 0, u do
+                                e[n + l] = x[l]
+                            end
+                            for l = r + 1, t do
+                                e[l] = nil
+                            end
+                        elseif (i < 51) then
+                            e[l[n]] = (l[a] ~= 0)
+                        end
+                    elseif (i <= 56) then
+                        if (i <= 53) then
+                            if (i > 52) then
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = (l[a] ~= 0)
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = (l[a] ~= 0)
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]][l[a]] = e[l[d]]
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i < 53) then
+                                e[l[n]][l[a]] = e[l[d]]
+                            end
+                        elseif (i <= 54) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i == 55) then
+                            local n = l[n]
+                            e[n] = e[n](f(e, n + 1, l[a]))
+                            for l = n + 1, t do
+                                e[l] = nil
+                            end
+                        elseif (i <= 56) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][e[l[d]]]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = (l[a] ~= 0)
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = (l[a] ~= 0)
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]][l[a]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]][e[l[a]]] = e[l[d]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][e[l[d]]]
+                            l = l[o]
+                            local c = l[n]
+                            local i = e[l[a]]
+                            e[c + 1] = i
+                            e[c] = i[l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local n = l[n]
+                            e[n] = e[n](f(e, n + 1, l[a]))
+                            for l = n + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 59) then
+                        if (i <= 57) then
+                            e[l[n]] = e[l[a]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = #e[l[a]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = e[l[a]][e[l[d]]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](e[i + 1])
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local c = l[a]
+                            local i = e[c]
+                            for l = c + 1, l[d] do
+                                i = i .. e[l]
+                            end
+                            e[l[n]] = i
+                            l = l[o]
+                            local n = l[n]
+                            e[n](f(e, n + 1, l[a]))
+                            for l = n + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        elseif (i == 58) then
+                            local l = l[n]
+                            e[l] = e[l](e[l + 1])
+                            for l = l + 1, t do
+                                e[l] = nil
+                            end
+                        elseif (i <= 59) then
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            local r = e[l[a]]
+                            e[i + 1] = r
+                            e[i] = r[l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            local r = l[n]
+                            local i = e[l[a]]
+                            e[r + 1] = i
+                            e[r] = i[l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i](e[i + 1])
+                            for l = i, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = h[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            local i = l[n]
+                            e[i] = e[i](f(e, i + 1, l[a]))
+                            for l = i + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]][l[a]] = l[d]
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 60) then
+                        e[l[n]] = C(l[a])
+                    elseif (i > 61) then
+                        local l = l[n]
+                        local o, n = p(e[l](e[l + 1]))
+                        r = n + l - 1
+                        local n = 0
+                        for l = l, r do
+                            n = n + 1
+                            e[l] = o[n]
+                        end
+                    elseif (i < 62) then
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        h[l[a]] = e[l[n]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = h[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        local i = l[n]
+                        local a = e[l[a]]
+                        e[i + 1] = a
+                        e[i] = a[l[d]]
+                        l = l[o]
+                        local a = l[n]
+                        local c, i = p(e[a](e[a + 1]))
+                        r = i + a - 1
+                        local i = 0
+                        for l = a, r do
+                            i = i + 1
+                            e[l] = c[i]
+                        end
+                        l = l[o]
+                        local n = l[n]
+                        local i = {e[n](f(e, n + 1, r))}
+                        local d = l[d]
+                        local a = 0
+                        for l = n, d do
+                            a = a + 1
+                            e[l] = i[a]
+                        end
+                        for l = d + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        l = l[o]
+                    end
+                elseif (i <= 72) then
+                    if (i <= 67) then
+                        if (i <= 64) then
+                            if (i == 63) then
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                local i = l[n]
+                                local r = e[l[a]]
+                                e[i + 1] = r
+                                e[i] = r[l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                local i = l[n]
+                                local r = e[l[a]]
+                                e[i + 1] = r
+                                e[i] = r[l[d]]
+                                l = l[o]
+                                local i = l[n]
+                                e[i](e[i + 1])
+                                for l = i, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]] = c[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = l[a]
+                                l = l[o]
+                                e[l[n]] = h[l[a]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                e[l[n]] = e[l[a]][l[d]]
+                                l = l[o]
+                                local i = l[n]
+                                e[i] = e[i](f(e, i + 1, l[a]))
+                                for l = i + 1, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                e[l[n]][l[a]] = l[d]
+                                l = l[o]
+                                l = l[o]
+                            elseif (i <= 64) then
+                                local n = l[n]
+                                e[n](e[n + 1])
+                                for l = n, t do
+                                    e[l] = nil
+                                end
+                                l = l[o]
+                                l = l[o]
+                            end
+                        elseif (i <= 65) then
+                        elseif (i > 66) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][e[l[d]]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][e[l[d]]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i < 67) then
+                            local l = l[n]
+                            e[l](e[l + 1])
+                            for l = l, t do
+                                e[l] = nil
+                            end
+                        end
+                    elseif (i <= 69) then
+                        if (i > 68) then
+                            l = l[o]
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local d = l[n]
+                            e[d](e[d + 1])
+                            for l = d, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            e[l[n]] = h[l[a]]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i < 69) then
+                            e[l[n]] = e[l[a]] / l[d]
+                        end
+                    elseif (i <= 70) then
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = l[d]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = l[d]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = l[d]
+                        l = l[o]
+                        l = l[o]
+                    elseif (i == 71) then
+                        local l = l[n]
+                        do
+                            return f(e, l, r)
+                        end
+                    elseif (i <= 72) then
+                        e[l[n]] = e[l[a]]
+                    end
+                elseif (i <= 77) then
+                    if (i <= 74) then
+                        if (i > 73) then
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            l = l[o]
+                        elseif (i < 74) then
+                            e[l[n]] = c[l[a]]
+                            l = l[o]
+                            e[l[n]] = e[l[a]][l[d]]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            e[l[n]] = l[a]
+                            l = l[o]
+                            local n = l[n]
+                            e[n] = e[n](f(e, n + 1, l[a]))
+                            for l = n + 1, t do
+                                e[l] = nil
+                            end
+                            l = l[o]
+                            l = l[o]
+                        end
+                    elseif (i <= 75) then
+                        local n = l[n]
+                        local a = l[a]
+                        local d = 50 * (l[d] - 1)
+                        local o = e[n]
+                        local l = 0
+                        for a = n + 1, a do
+                            o[d + l + 1] = e[n + (a - n)]
+                            l = l + 1
+                        end
+                    elseif (i == 76) then
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        local r = l[n]
+                        local i = e[l[a]]
+                        e[r + 1] = i
+                        e[r] = i[l[d]]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](e[i + 1])
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        local d = l[n]
+                        e[d] = e[d](e[d + 1])
+                        for l = d + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]] = h[l[a]]
+                        l = l[o]
+                        l = l[o]
+                    elseif (i <= 77) then
+                        l = l[o]
+                        local a = l[n]
+                        r = a + u - 1
+                        for l = 0, u do
+                            e[a + l] = x[l]
+                        end
+                        for l = r + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        local n = l[n]
+                        do
+                            return f(e, n, r)
+                        end
+                        l = l[o]
+                        l = l[o]
+                    end
+                elseif (i <= 80) then
+                    if (i <= 78) then
+                        local n = l[n]
+                        local o = e[l[a]]
+                        e[n + 1] = o
+                        e[n] = o[e[l[d]]]
+                    elseif (i > 79) then
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = (l[a] ~= 0)
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = (l[a] ~= 0)
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        local i = l[n]
+                        e[i] = e[i](f(e, i + 1, l[a]))
+                        for l = i + 1, t do
+                            e[l] = nil
+                        end
+                        l = l[o]
+                        e[l[n]][l[a]] = e[l[d]]
+                        l = l[o]
+                        e[l[n]] = c[l[a]]
+                        l = l[o]
+                        e[l[n]] = e[l[a]][l[d]]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        e[l[n]] = l[a]
+                        l = l[o]
+                        l = l[o]
+                    elseif (i < 80) then
+                        e[l[n]] = l[a]
+                    end
+                elseif (i <= 81) then
+                    e[l[n]] = e[l[a]][e[l[d]]]
+                elseif (i == 82) then
+                    e[l[n]] = e[l[a]] + e[l[d]]
+                elseif (i <= 83) then
+                    if (e[l[n]] >= l[d]) then
+                        s = l[a]
+                    end
+                end
+            end
+        end)
+    end
+    return m(X(), {}, W())(...)
+end)(
+    ({
+        bWuBAp = (#{(function(...)
+                return 453, ...
+            end)(38, 936, 780)} + 4),
+        [(866511168)] = (31),
+        ["OoRL83RER"] = ("\107"),
+        [(#{} + 949537262)] = ("\121"),
+        [(444105335)] = (23 - #("psu == femboy hangout")),
+        [(968627693 -
+            #("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))] = ("\119"),
+        [(25795092)] = (1023),
+        [(#{234} + 185592053)] = ("\109"),
+        [(891841303)] = ("\117"),
+        ["ogH6oFzsyD"] = ("\112"),
+        [(#{906, 235, (function(...)
+                return 711, ...
+            end)(974, 967, 657)} + 629978385)] = ("\101"),
+        BS7ZYD = (891841303),
+        [(158165332 - #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!"))] = (21),
+        tLOCLz = (540255260),
+        [(545947079)] = ("\100"),
+        [(826123361)] = (629978391),
+        [(571401092)] = (165),
+        ["AXUJG48aC"] = (#{875, 550, (function(...)
+                return 304, ...
+            end)(957)} + 166931667),
+        [(112425137)] = (94 -
+            #("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")),
+        ["XVbG0Qgm3"] = (867722128),
+        [(600152909)] = (155161),
+        [(#{577, 347, 582, (function(...)
+                return 309, 902, 621, ...
+            end)(124, 754, 322)} + 118824170)] = ("\111"),
+        [(540255260)] = ("\98"),
+        FV0XMlD17e = (248),
+        [(#{687} + 96932725)] = (58),
+        [(#{890, 100, 195, 904} + 447789189)] = (185592054),
+        [(742216482)] = (#{314, 177, 246, 414} + 16777212),
+        [(#{746, 335, 939, 89, (function(...)
+                return 575, 1, 716, ...
+            end)(901)} + 614463883)] = ("\114"),
+        [(180749218)] = (968627574),
+        [(22970061)] = (316 - #("woooow u hooked an opcode, congratulations~ now suck my cock")),
+        [(67425095)] = (9),
+        [(#{146, 10, (function(...)
+                return 148, 154
+            end)()} + 199551673)] = ("\50"),
+        ["JYfWtVC"] = ("\116"),
+        I4fWpdhUP = ("\108"),
+        [(425304159 - #("IIiIIiillIiiIIIiiii :troll:"))] = (#{580, 908, 395, (function(...)
+                return 188, 957
+            end)()} + 4995),
+        [(#{273, 109, 193} + 613736661)] = (380793115),
+        [(#{163, 11, (function(...)
+                return 750, 243, 520, 856
+            end)()} + 456402732)] = ("\99"),
+        [(881756393)] = (545947079),
+        [(413291554)] = (106 - #("psu premium chads winning (only joe biden supporters use the free version)")),
+        [(688561554)] = (#{617, 862, (function(...)
+                return
+            end)()} + 949537260),
+        [(#{234, 482, 486, 301, (function(...)
+                return 478
+            end)()} + 604438896)] = (7),
+        [(487562762)] = (#{477, 800, 599, (function(...)
+                return 163, 321
+            end)()} + 33),
+        [(202283967 - #("IIiIIiillIiiIIIiiii :troll:"))] = (118824179),
+        [(#{424, 702} + 380793113)] = ("\102"),
+        [(#{999, (function(...)
+                return 811, 271, 670, ...
+            end)(663, 783, 767, 309)} + 723732665)] = (109),
+        ["CPVkQwOLPu"] = ("\118"),
+        [(259086843 - #("this isn't krnl support you bonehead moron"))] = (132 -
+            #("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")),
+        ["t2vDAJj"] = (#{} + 614463891),
+        [(931093116)] = (2047),
+        [(231969148)] = (#{382, 529, 553, (function(...)
+                return 709
+            end)()} + 554611),
+        [(#{573, 710, 228} + 867722125)] = ("\97"),
+        [(#{(function(...)
+                return 781, 173, 545, 361, ...
+            end)(253)} + 920094707)] = (670199 - #("why does psu.dev attract so many ddosing retards wtf")),
+        O81olx = ("\103"),
+        ["COl89M"] = (4),
+        [(#{} + 554949777)] = (#{236, 236, 541, 839} + 86),
+        x3aUjyP6x = (199551677),
+        [(193593747)] = (#{} + 0),
+        ["bNEtJ63m"] = ("\115"),
+        [(407197869 -
+            #("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))] = (205 -
+            #("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")),
+        [(481243764)] = ("\110"),
+        [(328716780 - #("still waiting for luci to fix the API :|"))] = (481243764),
+        ["MZUGhMP"] = (#{608, (function(...)
+                return 695, 474
+            end)()} + 456402735),
+        [(683465076)] = (#{936, 3, 521, 390} + 1),
+        [(#{230, 206, 272, (function(...)
+                return 933, 323, 438
+            end)()} + 235387873)] = (3),
+        [(#{522, 906, (function(...)
+                return 511, 88, 117, 259
+            end)()} + 364781238)] = (936655 -
+            #("psu premium chads winning (only joe biden supporters use the free version)")),
+        [(537414305)] = (65610 - #("psu premium chads winning (only joe biden supporters use the free version)")),
+        almkvn4Exu = (#{575, 58, 276, 82} + 2),
+        [(136451056)] = (287288),
+        [(166931671)] = ("\104"),
+        [(519413482)] = (36),
+        ["o67A3"] = ("\105"),
+        ["jqrDIVtNNf"] = (52)
+    }),
+    ...
+)

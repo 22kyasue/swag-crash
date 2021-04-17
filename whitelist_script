@@ -13,13 +13,7 @@
           
       
     elseif whitelistlerk[game:service('Players').LocalPlayer.UserId] then
-        local notifSound = Instance.new("Sound",workspace)
-        notifSound.PlaybackSpeed = 1
-        notifSound.Volume = 1
-        notifSound.SoundId = "rbxassetid://1561112424"
-        notifSound.PlayOnRemove = true
-        notifSound:Destroy()
-    
+       
 
 
     
@@ -47,14 +41,6 @@
     
     
     else
-     local notifSound = Instance.new("Sound",workspace)
-          notifSound.PlaybackSpeed = 1
-          notifSound.Volume = 1
-          notifSound.SoundId = "rbxassetid://1561112424"
-          notifSound.PlayOnRemove = true
-          notifSound:Destroy()
-    game.StarterGui:SetCore("SendNotification", {Title = "Swagmode", Text = "FREE WHITELIST                                    By Swagmode", Icon = "rbxassetid://505845268", Duration = 60, Button1 = "Okay"})
-    
-    --game:service('Players').LocalPlayer:Kick('Ez ez, join swags discord')
+     
     
     end 

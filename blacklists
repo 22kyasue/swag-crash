@@ -1,5 +1,5 @@
 userids = {
-    [] = true, -- random kids
+    [80896114] = true, -- Arxashi
     
     }
     return userids

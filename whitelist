@@ -1,5 +1,6 @@
 userids = {
     [661608769] = true, -- kristina#1111
+    [200547759] = true, --mason
     
     }
     return userids

@@ -4,7 +4,7 @@
     local blacklists = loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/blacklists", true))()
     
     if whitelistecheck[game:service('Players').LocalPlayer.UserId] then
-           print("hello")
+    game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Whitelist Checked                      By Swagmode", Icon = "rbxassetid://505845268", Duration = 5, Button1 = "Okay"})
       
     elseif whitelistlerk[game:service('Players').LocalPlayer.UserId] then
        
@@ -35,6 +35,6 @@
     
     
     else
-     print("Hello")
+    game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Whitelist Checked                      By Swagmode", Icon = "rbxassetid://505845268", Duration = 5, Button1 = "Okay"})
     
     end 

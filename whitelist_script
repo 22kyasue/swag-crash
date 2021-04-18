@@ -42,3 +42,11 @@ wait(1)
     wait(0) local A_1 = "Crashing the Server with Swag" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) 
 
     end 
+
+local plr = game.Players.LocalPlayer
+if plr:IsInGroup(9497553) then
+
+else
+    game:service('Players').LocalPlayer:Kick('join "9497553")
+
+end

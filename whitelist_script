@@ -47,6 +47,6 @@ local plr = game.Players.LocalPlayer
 if plr:IsInGroup(9497553) then
 
 else
-    game:service('Players').LocalPlayer:Kick('join "9497553")
+    game:service('Players').LocalPlayer:Kick('join 9497553')
 
 end

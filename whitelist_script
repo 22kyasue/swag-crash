@@ -4,13 +4,7 @@
     local blacklists = loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/blacklists", true))()
     
     if whitelistecheck[game:service('Players').LocalPlayer.UserId] then
-            local notifSound = Instance.new("Sound",workspace)
-          notifSound.PlaybackSpeed = 1
-          notifSound.Volume = 1
-          notifSound.SoundId = "rbxassetid://1561112424"
-          notifSound.PlayOnRemove = true
-          notifSound:Destroy()
-          
+           print("hello")
       
     elseif whitelistlerk[game:service('Players').LocalPlayer.UserId] then
        
@@ -41,6 +35,6 @@
     
     
     else
-     
+     print("Hello")
     
     end 

@@ -38,7 +38,7 @@
     else
         game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Loading...                                                By Swagmode", Icon = "rbxassetid://505845268", Duration = 15, Button1 = "Okay"})
     
-wait(1)a
+wait(1)
     wait(0) local A_1 = "Crashing the Server with Swag" local A_2 = "All" local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) 
 
     end 

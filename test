@@ -1,0 +1,13 @@
+  --  local annoying = loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/anti-crash%20user", true))()
+    
+   -- game.Players.PlayerAdded:Connect(function(plr)
+  --  for i, v in pairs(annoying) do 
+--if plr.UserId == v then
+  --  local loc = game.Players.LocalPlayer
+
+
+local annoyign = laodstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/anti-crash%20user", true))()
+game.Players.PlayerAdded:conenct(function(plr)
+for i, v in pairs(annoying) do
+if plr.UserId == v then
+local whitwelsdit = user.conect.functio()

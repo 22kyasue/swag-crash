@@ -2,5 +2,6 @@ userids = {
     [2351144328] = true, -- woz
     [44694442] = true, --lerk
     [1688589423] = true, --kristina
+    [1989852216] = true, --iumufan
     }
     return userids

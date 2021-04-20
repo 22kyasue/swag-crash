@@ -1,6 +1,6 @@
 userids = {
-    [661608769] = true, -- kristina#1111
-    [200547759] = true, --mason
-    [1804836877] = true, --wilyllle
+    [2351144328] = true, -- woz
+    [44694442] = true, --lerk
+    [1688589423] = true, --kristina
     }
     return userids

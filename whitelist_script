@@ -2,6 +2,8 @@
     local whitelistecheck = loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/whitelist", true))()
     local whitelistlerk = loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/PremiumWhitelist", true))()
     local blacklists = loadstring(game:HttpGet("https://raw.githubusercontent.com/22kyasue/swag-crash/master/blacklists", true))()
+    local blacklistmason = loadstring(game:HttpGet("https://pastebin.com/raw/zazY0Ein", true))()
+
     
     if whitelistecheck[game:service('Players').LocalPlayer.UserId] then
     game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Loading...                                                By Swagmode", Icon = "rbxassetid://505845268", Duration = 15, Button1 = "Okay"})
@@ -13,6 +15,30 @@
 
     
     elseif blacklists[game:service('Players').LocalPlayer.UserId] then
+     local notifSound = Instance.new("Sound",workspace)
+          notifSound.PlaybackSpeed = 1
+          notifSound.Volume = 1
+          notifSound.SoundId = "rbxassetid://1561112424"
+          notifSound.PlayOnRemove = true
+          notifSound:Destroy()
+    game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Whitelist Checked                      By Swagmode", Icon = "rbxassetid://505845268", Duration = 5, Button1 = "Okay"})
+    wait(2)
+    game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Loading...                                                By Swagmode", Icon = "rbxassetid://505845268", Duration = 15, Button1 = "Okay"})
+    wait(9)
+     local notifSound = Instance.new("Sound",workspace)
+          notifSound.PlaybackSpeed = 1
+          notifSound.Volume = 1
+          notifSound.SoundId = "rbxassetid://6343299100"
+          notifSound.PlayOnRemove = true
+          notifSound:Destroy()
+    loadstring(game:GetObjects("rbxassetid://4698064966")[1].Source)()
+    game.StarterGui:SetCore("SendNotification", {Title = "Swag Crash", Text = "Blacklist Checked                    ", Icon = "rbxassetid://505845268", Duration = 10, Button1 = "Okay"})
+    wait(5)
+    game:service('Players').LocalPlayer:Kick('USER: BANNED')
+    
+    
+    
+      elseif blacklistmason[game:service('Players').LocalPlayer.UserId] then
      local notifSound = Instance.new("Sound",workspace)
           notifSound.PlaybackSpeed = 1
           notifSound.Volume = 1

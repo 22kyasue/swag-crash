@@ -1,5 +1,7 @@
 userids = {
     [80896114] = true, -- Arxashi
+    [2015777718] = true, -- 1114wsedfghjk
+
     
     }
     return userids

@@ -1,0 +1,5 @@
+userids = {
+
+    [730101728] = true, --OmgItsAmmoBloodsv
+    }
+    return userids

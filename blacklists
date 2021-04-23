@@ -2,7 +2,7 @@ userids = {
     [80896114] = true, -- Arxashi
     [2015777718] = true, -- 1114wsedfghjk
     [1932055627] = true, --HxnterEarth
-    
+    [730101728] = true, --OmgItsAmmoBloods
     }
     return userids
 
